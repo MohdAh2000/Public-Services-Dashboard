@@ -10,5 +10,6 @@ A static preview image is provided in this repository instead.
 
 
 **The data is not real and is for display purposes only.
+![Dashboard Preview](ArcOnlineDashboard.png)
 
 
